@@ -173,7 +173,7 @@ The notebook targets **Python 3.12** and needs internet access to pull prices vi
 
 ## About
 
-Built by **Joseph Bidias** for the Capstone Review course (MScFE 692) in the M.S. in Financial Engineering at **WorldQuant University** (May 2026). Submitted for the course as Group Work Project 2 under Group 14744.
+Built by **Joseph Bidias** for the Capstone Review course (MScFE 692) in the M.S. in Financial Engineering at **WorldQuant University** (May 2026). 
 
 **Contact:** [github.com/eaglepython](https://github.com/eaglepython)
 
